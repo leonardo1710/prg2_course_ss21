@@ -13,6 +13,8 @@ Course repository for Programming 2 in Computer Science and Digital Communicatio
 [Coding Solution from lecture exercise](https://github.com/leonardo1710/PRG2PointExampleSolution)
 
 ### Resources
+[Video Setup Maven Project with JUnit](https://moodle.fh-campuswien.ac.at/mod/lti/view.php?id=426900)
+
 [Maven Repository](https://mvnrepository.com/)
 
 [JUnit5](https://junit.org/junit5/docs/current/user-guide/)
