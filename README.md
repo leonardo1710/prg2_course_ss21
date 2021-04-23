@@ -1,4 +1,4 @@
-# prg2_course_ss21
+# Programming 2 Course Repository
 Course repository for Programming 2 in Computer Science and Digital Communications
 
 ## 1 Maven, TDD and Unit Testing
