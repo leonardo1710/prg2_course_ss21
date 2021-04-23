@@ -7,6 +7,8 @@ Course repository for Programming 2 in Computer Science and Digital Communicatio
 - What is Test Driven Development (TDD), how does it work, goals
 - Unit Testing (JUnit 5)
 
+[See more](https://github.com/leonardo1710/prg2_course_ss21/tree/main/1TDD)
+
 ## 2 Software Design Patterns
 ### Learning Objectives:
 - Characteristics of Design Patterns
@@ -16,6 +18,9 @@ Course repository for Programming 2 in Computer Science and Digital Communicatio
     - Behavioral
     - Concurrency
 
+[See more](https://github.com/leonardo1710/prg2_course_ss21/tree/main/2SoftwarePatterns)
+
+
 ## 3 Advanced Java Concepts
 ### Learning Objectives:
 - Annotations
@@ -23,5 +28,14 @@ Course repository for Programming 2 in Computer Science and Digital Communicatio
 - Lambda Expressions
 - Streams
 
+[See more](https://github.com/leonardo1710/prg2_course_ss21/tree/main/3AdvancedJava)
+
+
 ## 4 Java Threads
 ### Learning Objectives:
+- Understand multi-threading concept in Java
+- Thread Lifecycles
+- RxJava
+
+[See more](https://github.com/leonardo1710/prg2_course_ss21/tree/main/4JavaThreads)
+
