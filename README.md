@@ -7,12 +7,12 @@ Course repository for Programming 2 in Computer Science and Digital Communicatio
 - What is Test Driven Development (TDD), how does it work, goals
 - Unit Testing (JUnit 5)
 
-###Coding Solutions
+### Coding Solutions
 [JUnit Examples from lecture slides](https://github.com/leonardo1710/TddMavenExample)
 
 [Coding Solution from lecture exercise](https://github.com/leonardo1710/PRG2PointExampleSolution)
 
-###Resources
+### Resources
 [Maven Repository](https://mvnrepository.com/)
 
 [JUnit5](https://junit.org/junit5/docs/current/user-guide/)
