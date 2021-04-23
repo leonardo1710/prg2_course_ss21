@@ -1,4 +1,4 @@
-# Programming 2 Course Repository
+# Programming 2 Course Repository - CSDC FH Campus Wien
 Course repository for Programming 2 in Computer Science and Digital Communications
 
 ## 1 Maven, TDD and Unit Testing
