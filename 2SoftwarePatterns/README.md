@@ -9,5 +9,6 @@
     
 
 ### Coding Solutions
+[Design Pattern Examples from lecture](https://github.com/leonardo1710/PRG2_DesignPatterns)
 
 ### Resources
