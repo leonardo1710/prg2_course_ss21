@@ -6,5 +6,6 @@
 - Streams
 
 ### Coding Solutions
+[Examples from Lecture](https://github.com/leonardo1710/AdvancedJavaConcepts)
 
 ### Resources
