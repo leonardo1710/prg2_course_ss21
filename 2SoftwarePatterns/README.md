@@ -14,3 +14,5 @@
 [Design Pattern Examples from lecture](https://github.com/leonardo1710/PRG2_DesignPatterns)
 
 ### Resources
+[Tutorials - Design Patterns in Java](https://www.tutorialspoint.com/design_pattern/design_pattern_resources.htm)
+[Design Patterns in Java](https://www.javatpoint.com/design-patterns-in-java)
