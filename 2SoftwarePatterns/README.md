@@ -6,7 +6,9 @@
     - Structural
     - Behavioral
     - Concurrency
-    
+
+### Exercise Template
+[Coding Template for exercise 2](https://github.com/leonardo1710/prog2_exercise2_starter_code)
 
 ### Coding Solutions
 [Design Pattern Examples from lecture](https://github.com/leonardo1710/PRG2_DesignPatterns)
